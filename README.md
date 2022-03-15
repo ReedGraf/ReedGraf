@@ -6,7 +6,7 @@
 - 👨‍💻 Languages: Python, HTML, CSS, JavaScript
 - Learning: A bit of Java
 - ♂️ Pronouns: He/Him
-- 📧 Email Me: isd279games@protonmail.com
+- 📧 Email Me: isd279games@gmail.com
 
 **Projects:**
 
