@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%233FF7C6&size=21&lines=Hello+there!+Welcome+to+my+GitHub!;Go+check+out+ISD279+Games!+🎮)](https://git.io/typing-svg)
 
 **Some things about me:**
-- 🏗️ Currently Working On: Nothing!
+- 🏗️ Currently Working On: Updating [anti-pointer-lock-bypass](https://github.com/ReedGraf/anti-pointer-lock-bypass)
 - 👨‍💻 Languages: Python, HTML, CSS, JavaScript
-- Learning: A bit of Java
+- Learning: Brushing up on JavaScript
 - ♂️ Pronouns: He/Him
 - 📧 Email Me: isd279games@gmail.com
 
