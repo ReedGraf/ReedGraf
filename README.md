@@ -1,5 +1,5 @@
 <!-- This is kinda cool looking ngl -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%233FF7C6&size=21&lines=Hello+there!+Welcome+to+my+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%233FF7C6&size=21&lines=Hello+there!+Welcome+to+my+GitHub!;Check+Out+My+Website!)](https://git.io/typing-svg)
 
 **Some things about me:**
 - 🏗️ Currently Working On: Personal Website
