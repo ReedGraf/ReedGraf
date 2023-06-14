@@ -2,9 +2,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%233FF7C6&size=21&lines=Hello+there!+Welcome+to+my+GitHub!;Check+Out+My+Website!)](https://git.io/typing-svg)
 
 **Some things about me:**
-- 🏗️ Currently Working On: Personal Website
+- 🏗️ Currently Working On: Relaxing
 - 👨‍💻 Languages: Python, HTML, CSS, JavaScript
-- Learning: Brushing up on JavaScript
+- Learning: Getting better at JavaScript
 - ♂️ Pronouns: He/Him
 - 📧 Email Me: isd279games@gmail.com
 
