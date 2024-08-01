@@ -14,7 +14,3 @@
 - [ISD279 Games](https://github.com/ReedGraf/isd279games) - ISD279 Games is a game website project that has a bunch of resources hosted here on GitHub. (Ended)
 
 ---
-
-## Satistics
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ReedGraf&show_icons=true&theme=tokyonight&locale=en" alt="ReedGraf" /></p>
