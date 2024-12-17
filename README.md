@@ -3,7 +3,7 @@
 
 **Some things about me:**
 - 🏗️ Currently Working On: AP Computer Science Projects
-- 👨‍💻 Languages: Java Python, HTML, CSS, JavaScript
+- 👨‍💻 Languages: Java, Python, HTML, CSS, JavaScript
 - 📚 Learning: Java
 - ♂️ Pronouns: He/Him
 - 📧 Email Me: isd279games@gmail.com
