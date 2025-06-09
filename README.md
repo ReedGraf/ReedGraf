@@ -2,12 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=%233FF7C6&size=21&lines=Hello+there!+Welcome+to+my+GitHub!;Check+Out+My+Website!)](https://git.io/typing-svg)
 
 **Some things about me:**
-- 🏗️ Currently Working On: AP Computer Science Projects
+- 🏗️ Currently Working On: Nothing!
 - 👨‍💻 Languages: Java, Python, HTML, CSS, JavaScript
 - 📚 Learning: Java
 - ♂️ Pronouns: He/Him
-- 📧 Email Me: isd279games@gmail.com
-
+<!--- Deleted Account
+📧 Email Me: isd279games@gmail.com
+-->
 **Projects:**
 
 - [drivers-test-availability-check](https://github.com/ReedGraf/drivers-test-availability-check) - A tool to check for openings for driver license tests in Minnesota.
