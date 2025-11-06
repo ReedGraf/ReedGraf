@@ -1,4 +1,4 @@
-My Website (A little out of date 😬): [https://reedgraf.github.io](https://reedgraf.github.io)
+My Github Website: [https://reedgraf.github.io](https://reedgraf.github.io)
 
 ---
 
