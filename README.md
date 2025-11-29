@@ -1,6 +1,6 @@
 - 🌐 My Github Website: [https://reedgraf.github.io](https://reedgraf.github.io)
   
-  The idea was to make it as simple as possible so it should load on any device, browser, or smart fridge. All while trying to give the page some character.
+  The idea was to make it as simple as possible so it would load on any device: phone, laptop, or smart fridge. All while trying to give the page a little bit of character.
 
 ---
 
