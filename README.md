@@ -4,9 +4,7 @@
 - Don't look at my terrible code
 - Big Snoopy fan
 
----
-
-![counter](https://count.getloli.com/@326579862348712355468?theme=nixietube-1&padding=4&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto)
+<img width="250px" alt="view-count" src="https://count.getloli.com/@326579862348712355468?theme=nixietube-1&padding=4&offset=0&align=top&scale=1.2&pixelated=1&darkmode=auto"></img>
 <!--
 - 🌐 My Github Website: [https://reedgraf.github.io](https://reedgraf.github.io)
   
