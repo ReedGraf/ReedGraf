@@ -43,11 +43,14 @@
 ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+<!-- Not quite familiar enough ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
+<!-- Still need to setup a proper permanent wallet ![Monero](https://img.shields.io/badge/monero-%23FF6600.svg?style=for-the-badge&logo=monero&logoColor=white) -->
 
 idk. look, I know things.
 
-<!-- Not quite familiar enough ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
-<!-- Still need to setup a proper permanent wallet ![Monero](https://img.shields.io/badge/monero-%23FF6600.svg?style=for-the-badge&logo=monero&logoColor=white) -->
+## ai written code
+
+anything written using ai is documented in my repos. it will either include a disclaimer and/or a [Real Good AI rating](https://www.realgoodai.org/real-rating) 
 
 ## view counter
 
